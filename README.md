@@ -39,9 +39,7 @@ Next, open GitBash (terminal for MacOS), change your directory to the davidlp94/
 
 ## Main Source Code
 
-## Part
-
-
+## Part 1: 
 
 
 
