@@ -2,6 +2,8 @@
 ## Introduction
 An application designed to analyze a hypothethical FinTech ETF using SQL and database queries. This analysis involves the overall returns of both the entire ETF as well as each individual asset.
 
+Live application link: https://github.com/davidlp94/07_DLP_SQL_ETF_Analyzer/blob/main/etf_analyzer.ipynb
+
 ---
 
 ## Technologies
