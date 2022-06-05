@@ -47,7 +47,7 @@ Next, open GitBash (terminal for MacOS), change your directory to the davidlp94/
 
 The first step in this application is to establish a database connection string and query the ETF assets into a DataBase using SQL for further analysis.
 
-```
+```python
 import numpy as np
 import pandas as pd
 import hvplot.pandas
