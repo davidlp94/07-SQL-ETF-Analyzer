@@ -76,7 +76,7 @@ display(etf_portfolio)
 
 ![image](https://user-images.githubusercontent.com/96163075/154754794-bca18ea1-ea8e-4697-a609-d8b7aff39cae.png)
 
-```
+```python
 etf_portfolio_returns = etf_portfolio.mean(axis=0)
 annualized_etf_portfolio_returns = (etf_portfolio_returns.mean() +1)**252
 etf_cumulative_returns = (1+etf_portfolio_returns.mean())**(252*4)
